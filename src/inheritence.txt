@@ -1,0 +1,10 @@
+inheritence in kotlin
+public class can be inherited
+in kotlin we write for public- open class xyz{} (base class or super class)
+to inherit - class abc: xyz{} (derived or subclass)
+function overriding
+made a func in super class but wwe want to change function of that func in sub class we'lll use open keyword in superclass fun
+then make a func with same name in subclass
+overloading of functions- same name different functions of funcs in same class
+homework : Write a program using recursion to  find the factorial of a number
+Interfaces in kotlin
